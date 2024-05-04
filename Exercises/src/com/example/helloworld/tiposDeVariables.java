@@ -29,14 +29,5 @@ public class tiposDeVariables {
         var n1um = "camilo"; // Aquí una String
         String meth_substring = "abc".substring(2,3); // 0a 1b 2c -- Substraer del bit x hasta y
         System.out.println("c = " + meth_substring.toUpperCase()); //
-
-
-
-
-
-
-
-
-
     }
 }
