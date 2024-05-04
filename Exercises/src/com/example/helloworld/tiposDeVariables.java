@@ -29,5 +29,19 @@ public class tiposDeVariables {
         var n1um = "camilo"; // Aquí una String
         String meth_substring = "abc".substring(2,3); // 0a 1b 2c -- Substraer del bit x hasta y
         System.out.println("c = " + meth_substring.toUpperCase()); //
+
+        // Variable sin valor
+        String variableSinValor;
+        int branch = 0;
+        if (branch == 0) {
+
+           variableSinValor = "Camilo";
+        }
+        else {
+            variableSinValor = "sofia";
+        }
+        byte bytesEnteros = 127; // Vea la tabla de valores para enteros,
+        char copyright = '\u00A9'; // Esto se llama Unicode y se usa con el char la lista aquí  https://www.fileformat.info/info/unicode/char/a.htm
+        System.out.println( copyright + " " + variableSinValor);
     }
 }
