@@ -1,4 +1,4 @@
-public class primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args) {
         // En java tenemos dos tipos de datos 1. Primitivos (valor) 2. de referencia (una instancia de una clase)
         // 1. primitivos enteros
