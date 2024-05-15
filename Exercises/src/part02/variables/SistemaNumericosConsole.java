@@ -1,3 +1,4 @@
+package part02.variables;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -23,7 +24,7 @@ public class SistemaNumericosConsole {
 
 
 
-        String numero = "El numero es  : " + input;
+        String numero = "Numero Ingresado  : " + input;
         String binaryMessage = "En Numero Binario : " + Integer.toBinaryString(input);
         String octalMessage = "En Numero Octal : " + Integer.toOctalString(input);
         String hexaMessage = "En Numero Hexadecinal : " + Integer.toHexString(input);

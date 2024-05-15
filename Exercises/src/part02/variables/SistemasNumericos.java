@@ -1,3 +1,5 @@
+package part02.variables;
+
 public class SistemasNumericos {
     public static void main(String[] args) {
         var validar = 12;

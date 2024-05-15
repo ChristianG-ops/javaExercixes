@@ -1,3 +1,5 @@
+package part02.variables;
+
 public class PrimitivoCaracteres {
     public static void main(String[] args) {
         char character = '\u0040'; // Solo soporta 1 Character y UNICODE usando el / ex. \u0040

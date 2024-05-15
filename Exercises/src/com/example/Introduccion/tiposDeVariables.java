@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.example.Introduccion;
 // Aquí vamos a ver qué tipos de variables hay y como se usan
 public class tiposDeVariables {
     public static <integer> void main(String[] args) {
@@ -32,7 +32,7 @@ public class tiposDeVariables {
 
         // Variable sin valor
         String variableSinValor;
-        int branch = 0;
+        int branch = 1;
         if (branch == 0) {
 
            variableSinValor = "Camilo";

@@ -1,3 +1,5 @@
+package part02.variables;
+
 import javax.swing.*;
 
 public class InputsV01 {

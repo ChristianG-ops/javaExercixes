@@ -1,3 +1,5 @@
+package part02.variables;
+
 public class PrimitivosFloat {
 
     static float Flotante; //Para usar esta variable dentro del método "Static" (Mira en la línea de abajo la n4
